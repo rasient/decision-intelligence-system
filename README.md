@@ -2,41 +2,48 @@
 
 A Next.js + Tailwind MVP for improving decision quality under complexity.
 
-This is **not a productivity app**. It is a lightweight decision intelligence system that helps leaders turn:
+This version implements the **Planned Future Features** as a richer frontend prototype.
+
+## Implemented Future Features
+
+- Organizational Memory
+- AI Pattern Detection
+- Cross-Team Perception Mapping
+- Decision Consequence Graph
+- Signal Integrity Scoring
+- Latency Detection
+- Scenario Simulation
+- External Signal Ingestion mockup
+- System Health Model
+
+## Core Idea
+
+This is **not a productivity app**.
+
+It is a Decision Intelligence System:
 
 ```text
 signals → interpretation → decision → feedback → learning
 ```
 
-## Features
-
-- Signal vs noise classification
-- Structured decision builder
-- Explicit trade-off visibility
-- Decision log
-- Feedback loop
-- OpenAI Assist placeholders
-- Mobile-friendly layout
-- Dark mode
-
-## Run locally
+## Run Locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Then open:
+Open:
 
 ```text
 http://localhost:3000
 ```
 
-## Future roadmap
+## Part of Systems Lab
 
-- OpenAI API integration
-- decision pattern detection
-- organizational memory
-- cross-team perception mapping
-- decision consequence graph
-- system health model
+This project is part of a broader exploration:
+
+→ understanding how systems behave when treated as interconnected
+
+Main repo:
+https://github.com/rasient/systems-lab
